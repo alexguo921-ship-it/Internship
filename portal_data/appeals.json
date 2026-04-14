@@ -1,0 +1,34 @@
+{
+  "AP1001": {
+    "candidate": "王洋",
+    "emp_id": "EMP10163",
+    "score": 88.4,
+    "category": "AI评分偏差",
+    "reason": "我觉得我很合适",
+    "contact": "EMP10163",
+    "files": [],
+    "status": "⏳ 待审核",
+    "submitted": "2026-04-14 16:15",
+    "hr_comment": "",
+    "ai_category": "其他",
+    "urgency": "低",
+    "auto_response": "已收到，HR将在3个工作日内完成人工复核并给出书面回复。",
+    "source": "候选人门户"
+  },
+  "AP1002": {
+    "candidate": "黄丽",
+    "emp_id": "EMP10005",
+    "score": 42.9,
+    "category": "AI评分偏差",
+    "reason": "我觉得我很合适",
+    "contact": "EMP10163",
+    "files": [],
+    "status": "⏳ 待审核",
+    "submitted": "2026-04-14 16:15",
+    "hr_comment": "",
+    "ai_category": "其他",
+    "urgency": "低",
+    "auto_response": "已收到，HR将在3个工作日内完成人工复核并给出书面回复。",
+    "source": "候选人门户"
+  }
+}
